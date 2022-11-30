@@ -1,0 +1,141 @@
+header{
+    background-color: rgb(242, 242, 242);
+    margin: 1% 0% 0% 10%;
+    font-size: x-large;
+    font-weight: bolder;
+    font-stretch: 150%;
+    font-style: normal;
+}
+
+footer{
+    background-color: white;
+}
+
+form{
+    width: 50% !important;
+    background-color: white !important;
+    border-radius: 5%;
+    border: none;
+}
+
+.form-group{
+    margin-left: 5%;
+}
+
+input, select{
+    border: 1px solid rgb(102, 102, 102) !important;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(242, 242, 242) !important;
+}
+
+.btn-primary1{
+    background-color: black !important;
+    color: white !important;
+    border: none !important;
+    border-radius: 100px;
+}
+
+input[type=text]:focus, input[type=password]:focus, input[type=tel]:focus, select:focus, input[type=email]:focus {
+    border: 2px solid black !important;
+    box-shadow: none !important;
+}
+
+button {
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    opacity: 0.9;
+}
+
+button:hover {
+    opacity: 1 !important;
+}
+
+.container {
+    padding: 16px;
+}
+
+.pw-meter {
+    /* position:absolute;
+    top:50%;
+    left:50%;
+    transform:translate(-50%,-50%);
+    
+    background:#fff;
+    padding:20px;
+    box-shadow:0px 0px 20px 5px rgba(0,0,0,0.05); */
+    margin-left: 5%;
+    
+  }
+  .pw-meter h2 {
+    margin:10px 0px 30px;
+    font-size:20px;
+    color:#111;
+    text-align:center;
+  }
+  .pw-meter .form-element {
+    position:relative;
+  }
+  .pw-meter label {
+    display:block;
+    margin-bottom:8px;
+    color:#111;
+  }
+  .pw-meter input {
+    padding:8px 30px 8px 10px;
+    width:100%;
+    font-size:16px;
+    border:1px solid #bbb;
+    outline:none;
+  }
+  .pw-meter .pw-display-toggle-btn {
+    position:absolute;
+    right:10px;
+    top:35px;
+    width:20px;
+    height:20px;
+    text-align:center;
+    line-height:20px;
+    cursor:pointer;
+  }
+  .pw-meter .pw-display-toggle-btn i.fa-eye-slash {
+    display:none;
+  }
+  .pw-meter .pw-display-toggle-btn.active i.fa-eye-slash {
+    display:block;
+  }
+  .pw-meter .pw-display-toggle-btn.active i.fa-eye {
+    display:none;
+  }
+  .pw-meter .pw-strength {
+    position:relative;
+    width:100%;
+    height:20px;
+    margin-top:10px;
+    text-align:center;
+    background:#f2f2f2;
+    display:none;
+  }
+  .pw-meter .pw-strength span:nth-child(1) {
+    position:relative;
+    font-size:13px;
+    color:#111;
+    z-index:2;
+    font-weight:600;
+  }
+  .pw-meter .pw-strength span:nth-child(2) {
+    position:absolute;
+    top:0px;
+    left:0px;
+    width:0%;
+    height:100%;
+    border-radius:5px;
+    z-index:1;
+    transition:all 300ms ease-in-out;
+  }
