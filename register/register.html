@@ -18,7 +18,7 @@
 	<div class="container text-center">
 		<p class="h2">Discover your <small class="text-muted">Peers</small>, again!</p>
 	</div> 
-	<form class="container" id="SignupForm" method="post">
+	<form class="container" id="SignupForm" method="post" action="../homepage/homepage.html">
 		<br>
 		<div class="row"> <!--Name-->
 		  <div class="form-group col-5">
@@ -369,7 +369,7 @@
 			  phone:String(String(document.getElementById('select').value) + String(document.getElementById('Phone').value)),
 			  location:document.getElementById('inputCity').value,
 			  });
-			  alert("Your account has been created")
+			  window.location.replace("../homepage/homepage.html");
 			  document.getElementById('SignupForm').reset()
 		  }
 	  </script>

@@ -16,7 +16,7 @@ const firebaseConfig = {
         pass=document.getElementById('password').value;
         firebase.auth().signInWithEmailAndPassword(email, pass)
         .then(function() {
-            alert("Sucessfull Login!");
+            window.location.replace("../homepage/homepage.html");
             })
         .catch((error) => {
             const errorCode = error.code;
