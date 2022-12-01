@@ -35,7 +35,7 @@
 		<div class="row"> <!--Phone-->
 			<div class="form-group col-3">
 				<label class="text-muted" for="Code">Country Code</label>
-				<select class="form-control" name="countryCode" id="" required>
+				<select class="form-control" name="countryCode" id="select" required>
 					<option value="" disabled selected>Select</option>
 					<option data-countryCode="IN" value="91">India (+91)</option>
 					<option data-countryCode="GB" value="44">UK (+44)</option>
@@ -308,7 +308,43 @@
 		
 	</form>
 	<br><br>
-	<script src="./register.js"></script>
+	
+	<script src=" https://cdnjs.cloudflare.com/ajax/libs/firebase/7.14.1-0/firebase.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/firebase/7.14.2-0/firebase-auth.js"></script>
+	<script>
+	  const firebaseConfig = {
+	  apiKey: "AIzaSyA_sHmbSssZG-uC5NyjbJ5TUqUHRKbC04U",
+	  authDomain: "smartodishahack-1ff81.firebaseapp.com",
+	  databaseURL: "https://smartodishahack-1ff81-default-rtdb.firebaseio.com",
+	  projectId: "smartodishahack-1ff81",
+	  storageBucket: "smartodishahack-1ff81.appspot.com",
+	  messagingSenderId: "184914579055",
+	  appId: "1:184914579055:web:81d5161effd88e72acc79a",
+	  measurementId: "G-HDJLVLQ9VW"
+	   };
+	  firebase.initializeApp(firebaseConfig);
+	  var ref=firebase.database().ref('Users');
+	  document.getElementById('SignupForm').addEventListener("submit", submitForm); 
+	  function submitForm(e) 
+		  {
+			  e.preventDefault();		
+			  var data=ref.push()
+			  email=document.getElementById('email').value;
+			  pass=document.getElementById('password').value;
+			  const user=firebase.auth().createUserWithEmailAndPassword(email, pass)
+			  data.set({
+			  name:String(String(document.getElementById('fname').value)+" "+String(document.getElementById('lname').value)),
+			  email:document.getElementById('email').value,
+			  phone:String(String(document.getElementById('select').value) + String(document.getElementById('Phone').value)),
+			  location:document.getElementById('inputCity').value,
+			  });
+			  alert("Your account has been created")
+			  document.getElementById('SignupForm').reset()
+		  }
+	  </script>
+
+    <script type="text/javascript" src="./register.js"></script>
+
 </body>
 <footer>
 	<div class="container text-center">
