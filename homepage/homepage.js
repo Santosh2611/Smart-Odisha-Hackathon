@@ -1,26 +1,4 @@
-/*
-let usernames = [];
-const firebaseConfig = {
-    apiKey: "AIzaSyA_sHmbSssZG-uC5NyjbJ5TUqUHRKbC04U",
-    authDomain: "smartodishahack-1ff81.firebaseapp.com",
-    databaseURL: "https://smartodishahack-1ff81-default-rtdb.firebaseio.com",
-    projectId: "smartodishahack-1ff81",
-    storageBucket: "smartodishahack-1ff81.appspot.com",
-    messagingSenderId: "184914579055",
-    appId: "1:184914579055:web:81d5161effd88e72acc79a",
-    measurementId: "G-HDJLVLQ9VW"
-    };
-  firebase.initializeApp(firebaseConfig);
-  var dbref=firebase.database().ref('Users');
-  var refer = dbref.child('Users');
-  refer.on("value", function(snapshot) {
-  snapshot.forEach(function(childNodes) {
-  usernames.push(childNodes.val().name);
- });
- });
- */
-
- let usernames=[
+let usernames=[
   "Kiana Lor",
   "Joshua Lonaker",
   "Dakota Blanco",
