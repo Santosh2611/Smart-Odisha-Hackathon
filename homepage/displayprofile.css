@@ -1,13 +1,3 @@
-body {
-    font-family: Arial, Helvetica, sans-serif;
-    background-color: rgb(242, 242, 242) !important;
-}
-
-.container {
-    padding: 16px;
-    /* border: 1px solid black; */
-}
-
 .username{
   font-weight: bolder;
   font-size: x-large;
@@ -63,8 +53,4 @@ button:hover {
 	background-color: rgb(242, 242, 242) !important;
 	border: none;
 	margin-top: 5% !important;
-}
-
-svg{
-
 }
