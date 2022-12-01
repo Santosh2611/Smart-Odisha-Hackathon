@@ -7,7 +7,6 @@ header{
     font-weight: bolder;
     font-stretch: 150%;
     font-style: normal;
-    padding: 1%;
 }
 
 .headercols{
@@ -19,14 +18,18 @@ header{
 
 footer{
     background-color: white;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
 }
 
 form {
   color: #555;
-  /* display: flex; */
+  display: flex;
   padding: 2px;
   border: 1px solid currentColor;
   border-radius: 5px;
+  padding: 1%;
 }
 
 input[type="search"] {
@@ -64,7 +67,7 @@ button[type="submit"]:focus, input[type="search"]:focus {
 
 form.nosubmit {
   border: none;
-  padding: 0;
+  /* padding: 0; */
 }
 
 input.nosubmit {
@@ -77,10 +80,29 @@ input.nosubmit {
 
 
 body {
-    font-family: Arial, Helvetica, sans-serif;
-    background-color: rgb(242, 242, 242) !important;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: rgb(242, 242, 242) !important;
+  position: relative;
+  min-height: 100vh;
+  padding-bottom: 5rem;
 }
 
 .container {
     padding: 16px;
+    /* border: 1px solid black; */
+}
+
+.userprofile{
+  margin-top: 2%;
+}
+
+.profilephoto{
+  border-radius: 100%;
+  padding: 5%;
+  /* border: 1px solid black; */
+  box-shadow: 0 0 20px gray;
+}
+
+iframe{
+  flex-grow: 1;
 }

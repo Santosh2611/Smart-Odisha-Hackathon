@@ -1,0 +1,20 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(242, 242, 242) !important;
+}
+
+.container {
+    padding: 16px;
+    /* border: 1px solid black; */
+}
+
+.userprofile{
+  margin-top: 2%;
+}
+
+.profilephoto{
+  border-radius: 100%;
+  padding: 5%;
+  /* border: 1px solid black; */
+  box-shadow: 0 0 20px gray;
+}
