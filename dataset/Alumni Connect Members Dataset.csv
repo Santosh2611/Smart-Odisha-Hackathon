@@ -1,0 +1,308 @@
+id,name,nationality,city,mobile_number,alternate_mobile_number,primary_email_id,alternate_email_id,birthday,tagline,hastags,about,gpa,company name,industry,locality,country,language,language,industry_knowledge,tools_and_technologies
+0,Kiana Lor,China,Suzhou,,,,,,,,,3.06,ibm,information technology and services,"new york, new york, united states",united states,,Estonian,Adobe Systems Adobe Acrobat,Document management software
+1,Joshua Lonaker,United States of America,Santa Clarita,,,,,,,,,4.15,tata consultancy services,information technology and services,"bombay, maharashtra, india",india,,Swedish,AdSense Tracker,Data base user interface and query software
+2,Dakota Blanco,United States of America,Oakland,,,,,,,,,3.41,accenture,information technology and services,"dublin, dublin, ireland",ireland,,Thai,Atlassian JIRA,Content workflow software
+3,Natasha Yarusso,United States of America,Castro Valley,,,,,,,,,3.21,us army,military,"alexandria, virginia, united states",united states,,Tamil,Blackbaud The Raiser's Edge,Customer relationship management CRM software
+4,Brooke Cazares,Brazil,São José dos Campos,,,,,,,,,3.48,ey,accounting,"london, greater london, united kingdom",united kingdom,,Dutch,ComputerEase Construction Accounting,Accounting software
+5,Rochelle Johnson,United States of America,Indianapolis,,,,,,,,,2.95,hewlett-packard,information technology and services,"palo alto, california, united states",united states,,Japanese,Database reporting software,Data base reporting software
+6,Joey Abreu,China,Shenyang,,,,,,,,,3.6,cognizant technology solutions,information technology and services,"teaneck, new jersey, united states",united states,,Turkish,Databox,Data base user interface and query software
+7,Preston Suarez,Brazil,São Paulo,,,,,,,,,2.87,walmart,retail,"withee, wisconsin, united states",united states,,Latin,Email software,Electronic mail software
+8,Lee Dong,Philippines,Manila,,,,,,,,,3.67,microsoft,computer software,"redmond, washington, united states",united states,,Urdu,Enterprise resource planning ERP software,Enterprise resource planning ERP software
+9,Maa'iz al-Dia,Turkey,Istanbul,,,,,,,,,3.49,at&t,telecommunications,"dallas, texas, united states",united states,,Japanese,Exact Software Macola ES Labor Performance,Time accounting software
+10,Maja Nicholson,United States of America,Dallas,,,,,,,,,3.25,united states air force,defense & space,"randolph, texas, united states",united states,,Indonesian,Extensible markup language XML,Enterprise application integration software
+11,Sasha Jansen,United States of America,Chicago,,,,,,,,,3.18,pwc,accounting,"new york, new york, united states",united states,,Portugese,Fund accounting software,Accounting software
+12,Alexander Sherman,United States of America,Omaha,,,,,,,,,3.85,wells fargo,financial services,"san francisco, california, united states",united states,,French,Graphic presentation software,Graphics or photo imaging software
+13,Edgar Sanchez,Mexico,Tijuana,,,,,,,,,2.58,infosys,information technology and services,"bangalore, karnataka, india",india,,Chinese,Halogen e360,Human resources software
+14,Kolbi Strunk,United States of America,Mission Viejo,,,,,,,,,3.5,deloitte,management consulting,"new york, new york, united states",united states,,Korean,Halogen ePraisal,Human resources software
+15,Brittany Sath,Japan,Tokyo,,,,,,,,,3.17,citi,financial services,"new york, new york, united states",united states,,Thai,HCSS HeavyBid,Project management software
+16,Meggan Smith,United States of America,Los Angeles,,,,,,,,,2.74,bank of america,banking,"charlotte, north carolina, united states",united states,,Estonian,HCSS HeavyJob,Project management software
+17,Ericka Arreola,Mexico,Mexico,,,,,,,,,3.42,jpmorgan chase & co.,financial services,"new york, new york, united states",united states,,Portugese,Human resource information system HRIS,Human resources software
+18,David Pulc,Canada,Toronto,,,,,,,,,2.9,us navy,military,"washington, district of columbia, united states",united states,,Portugese,Infor SSA Human Capital Management,Human resources software
+19,Kyle Luckey,United States of America,Moreno Valley,,,,,,,,,3.16,amazon,internet,"seattle, washington, united states",united states,,Hindi,Intuit QuickBooks,Accounting software
+20,Rojesh Her,Japan,Tokyo,,,,,,,,,3.78,apple,consumer electronics,"cupertino, california, united states",united states,,Tamil,Listserv software,Electronic mail software
+21,David Weber,China,Peking,,,,,,,,,2.72,siemens,electrical/electronic manufacturing,"munich, bavaria, germany",germany,,Spanish,Lyris HQ Web-Analytics Solution,Analytical or scientific software
+22,Rachel Jambor,United States of America,Chicago,,,,,,,,,2.81,oracle,information technology and services,"redwood shores, california, united states",united states,,French,Microsoft Access,Data base user interface and query software
+23,Mus'ab al-Moustafa,Pakistan,Rawalpindi,,,,,,,,,3.56,nokia,telecommunications,"espoo, uusimaa, finland",finland,,French,Microsoft Dynamics AX,Enterprise resource planning ERP software
+24,Sila Nguyen,China,Hebi,,,,,,,,,3.3,education nationale,public policy,"paris, île-de-france, france",france,,Estonian,Microsoft Dynamics GP,Enterprise resource planning ERP software
+25,Samantha Hicks,United States of America,Santa Barbara,,,,,,,,,4,capgemini,information technology and services,"france, aquitaine, france",france,,Korean,Microsoft Excel,Spreadsheet software
+26,Angela Harding,United States of America,Manteca,,,,,,,,,3.4,wipro technologies,information technology and services,"bangalore, karnataka, india",india,,French,Microsoft FRx,Financial analysis software
+27,Brandon Barbour,United States of America,South Hill,,,,,,,,,2.29,hsbc,financial services,"london, greater london, united kingdom",united kingdom,,Pushto,Microsoft Office,Office suite software
+28,Reilly Wagar,United States of America,Modesto,,,,,,,,,3.2,google,internet,"mountain view, california, united states",united states,,Dutch,Microsoft Outlook,Electronic mail software
+29,Victoria Ibarra,Dominican Republic,Santo Domingo,,,,,,,,,2.58,united states postal service,government administration,"washington, district of columbia, united states",united states,,Persian,Microsoft PowerPoint,Presentation software
+30,Dakota Wirth,United States of America,Sacramento,,,,,,,,,3.11,mcdonald's corporation,restaurants,"oak brook, illinois, united states",united states,,French,Microsoft Project,Project management software
+31,Lauren Klocker,United States of America,Los Angeles,,,,,,,,,3,ericsson,information technology and services,"kista, stockholm, sweden",sweden,,Romanian,Microsoft Publisher,Desktop publishing software
+32,Michael Benson,United States of America,Phoenix,,,,,,,,,3,nhs,hospital & health care,,,,Russian,Microsoft SharePoint,Project management software
+33,Sean Rozga,United States of America,Los Angeles,,,,,,,,,3.61,boeing,aviation & aerospace,"chicago, illinois, united states",united states,,Japanese,Microsoft Word,Word processing software
+34,Cody Vermeylen,United States of America,Detroit,,,,,,,,,3.53,vodafone,telecommunications,"berks, west berkshire, united kingdom",united kingdom,,Indonesian,Nedstat Sitestat,Analytical or scientific software
+35,Kinaana al-Jamail,India,Kanpur,,,,,,,,,2.59,kaiser permanente,hospital & health care,"oakland, california, united states",united states,,Latin,Norchard Solutions Succession Wizard,Time accounting software
+36,Daniel Garcia,Peru,Lima,,,,,,,,,3.71,ford motor company,automotive,"dearborn, michigan, united states",united states,,Latin,Online advertising reporting software,Analytical or scientific software
+37,Katrina Saito,Japan,Tokyo,,,,,,,,,3.26,intel corporation,semiconductors,"santa clara, california, united states",united states,,English,Oracle E-Business Suite,Enterprise resource planning ERP software
+38,Joshua Galloway,United States of America,New York,,,,,,,,,2.1,department of veterans affairs,government administration,"washington, district of columbia, united states",united states,,French,Oracle PeopleSoft,Enterprise resource planning ERP software
+39,Aylin Mendoza,Mexico,Mexico,,,,,,,,,3.79,cisco,computer networking,"san jose, california, united states",united states,,Portugese,Oracle Siebel Server Sync,Customer relationship management CRM software
+40,Sharon Fyfe,United States of America,Los Angeles,,,,,,,,,3.43,general motors,automotive,"detroit, michigan, united states",united states,,English,PHP: Hypertext Preprocessor,Web platform development software
+41,Afnaan el-Mohammed,India,New Delhi,,,,,,,,,3.13,pepsico,food & beverages,"purchase, new york, united states",united states,,Urdu,Relational database management software,Data base management system software
+42,Jesse Williams,Russian Federation,Moscow,,,,,,,,,3.41,target,retail,"minneapolis, minnesota, united states",united states,,Latin,Sage 50 Accounting,Accounting software
+43,Kenny Fukushima,Japan,Tokyo,,,,,,,,,2.23,shell,oil & energy,"the hague, zuid-holland, netherlands",netherlands,,Indonesian,SAP,Enterprise resource planning ERP software
+44,Tawnie Glaisher,United States of America,Fremont,,,,,,,,,3.16,hcl technologies,information technology and services,"noida, uttar pradesh, india",india,,Indonesian,Structured query language SQL,Data base user interface and query software
+45,Britany Stevens,United States of America,Lafayette,,,,,,,,,3.48,ups,transportation/trucking/railroad,"atlanta, georgia, united states",united states,,Japanese,Web browser software,Internet browser software
+46,Alan Trinh,Japan,Tokyo,,,,,,,,,3.82,pfizer,pharmaceuticals,"new york, new york, united states",united states,,Arabic,Email software,Electronic mail software
+47,Zoe Kern,United States of America,West Jordan,,,,,,,,,2.32,unilever,consumer goods,"london, greater london, united kingdom",united kingdom,,Pushto,Microsoft Access,Data base user interface and query software
+48,Sidney Beavers,United States of America,Los Angeles,,,,,,,,,3.44,nestlé,food & beverages,"vevey, vaud, switzerland",switzerland,,Indonesian,Microsoft Dynamics GP,Enterprise resource planning ERP software
+49,Miriam Aguilar,Mexico,Mexicali,,,,,,,,,2.8,unitedhealth group,hospital & health care,"minneapolis, minnesota, united states",united states,,Swedish,Microsoft Excel,Spreadsheet software
+50,Issac Mata,Mexico,Tehuacán,,,,,,,,,2.69,huawei technologies,telecommunications,"shenzhen, guangdong, china",china,,Dutch,Microsoft Office,Office suite software
+51,Hannah Uren,United States of America,Los Angeles,,,,,,,,,2.9,dell,information technology and services,"round rock, texas, united states",united states,,Russian,Microsoft PowerPoint,Presentation software
+52,Zachary Bradley,Spain,Madrid,,,,,,,,,2.77,gsk,pharmaceuticals,"hayes, hillingdon, united kingdom",united kingdom,,Dutch,Microsoft Project,Project management software
+53,Moira Buttitto,United States of America,Los Angeles,,,,,,,,,3.52,honeywell,electrical/electronic manufacturing,"morristown, new jersey, united states",united states,,Arabic,Microsoft Word,Word processing software
+54,Nicole Humpal,United States of America,Walnut Creek,,,,,,,,,3.28,sap,computer software,,,,Arabic,SAP,Enterprise resource planning ERP software
+55,Georgia Williams,United States of America,Memphis,,,,,,,,,3.42,schlumberger,oil & energy,"houston, texas, united states",united states,,Turkish,Scheduling software,Calendar and scheduling software
+56,Connor Ferry,United States of America,Charlotte,,,,,,,,,2.24,lockheed martin,defense & space,"bethesda, maryland, united states",united states,,Urdu,Teleconferencing software,Video conferencing software
+57,Amanda Tatum,United States of America,San Diego,,,,,,,,,3.66,"ayatama energi, trisco nusantara",design,,,,French,Web browser software,Internet browser software
+58,Cameron Steinberg,United States of America,Los Angeles,,,,,,,,,3.34,abb,electrical/electronic manufacturing,"zurich, zurich, switzerland",switzerland,,Portugese,ActionWare,Customer relationship management CRM software
+59,Shuraih el-Karim,Pakistan,Khalabat,,,,,,,,,3.29,american center of krasnodar,education management,,,,Portugese,Adobe Systems Adobe Acrobat,Document management software
+60,Katelyn Sharp,United States of America,Los Angeles,,,,,,,,,3.41,starbucks,retail,"seattle, washington, united states",united states,,Indonesian,Adobe Systems Adobe Photoshop,Graphics or photo imaging software
+61,Colin Lemont,China,Shanghai,,,,,,,,,3.06,promobroker agente de seguros y de fianzas s a de c v,insurance,,,,Indonesian,ADP Workforce Now,Human resources software
+62,Donald Nevins,United States of America,San Jose,,,,,,,,,2.7,morgan stanley,financial services,"new york, new york, united states",united states,,Tamil,AMG Teleran SalesInSync,Customer relationship management CRM software
+63,Macaela Kadillak,United States of America,Los Angeles,,,,,,,,,2.9,the home depot,retail,"atlanta, georgia, united states",united states,,Swedish,Apache Hadoop,Data base management system software
+64,Brittany Pratt,United States of America,San Diego,,,,,,,,,3.89,independiente,photography,,,,Persian,Apple Final Cut Pro,Video creation and editing software
+65,Cameron Hancock,Poland,Warsaw,,,,,,,,,3.11,novartis,pharmaceuticals,"basel, basel-city, switzerland",switzerland,,Russian,Apple macOS,Operating system software
+66,William Grevious,United States of America,Stockton,,,,,,,,,3.73,johnson & johnson,hospital & health care,"new brunswick, new jersey, united states",united states,,Thai,Atlassian JIRA,Content workflow software
+67,Lindsey Job,United States of America,Los Angeles,,,,,,,,,2.52,bp,oil & energy,"london, greater london, united kingdom",united kingdom,,Korean,Autodesk AutoCAD,Computer aided design CAD software
+68,Gabrielle Smith,Korea (Republic of),Seoul,,,,,,,,,2.84,schneider electric,electrical/electronic manufacturing,"erlanger, kentucky, united states",united states,,Urdu,Avidian Technologies Prophet,Customer relationship management CRM software
+69,Allison Brink-Lomme,United States of America,Portland,,,,,,,,,2.51,state farm,insurance,"bloomington, illinois, united states",united states,,Thai,Blackbaud The Raiser's Edge,Customer relationship management CRM software
+70,Sheyenne Delgado-Manzanares,Cuba,Manzanillo,,,,,,,,,2.84,secretaría de educación pública,government administration,,,,Portugese,Blackboard,Data base user interface and query software
+71,Joseph Smith,United States of America,Sacramento,,,,,,,,,3.88,dhl,logistics and supply chain,"bonn, nordrhein-westfalen, germany",germany,,Arabic,CA Erwin Data Modeler,Metadata management software
+72,Fikra al-Mina,India,Bombay,,,,,,,,,2.67,my home,publishing,,,,Tamil,Calendar and scheduling software,Calendar and scheduling software
+73,Aurelia Davis Ingham,United States of America,Roseville,,,,,,,,,3.26,td,banking,"toronto, ontario, canada",canada,,Pushto,Citrix,Access software
+74,Taylor Elstun,United States of America,San Diego,,,,,,,,,3.48,ge,electrical/electronic manufacturing,"fairfield, connecticut, united states",united states,,Urdu,CNC Mastercam,Computer aided manufacturing CAM software
+75,Joseph Snider,United States of America,Los Angeles,,,,,,,,,2.24,philips,hospital & health care,"guildford, surrey, united kingdom",united kingdom,,Pushto,Computer aided manufacturing CAM software,Computer aided manufacturing CAM software
+76,Sourinthone Tran,China,Wuhan,,,,,,,,,2.27,ubs,financial services,"zurich, zurich, switzerland",switzerland,,English,Confluence,Project management software
+77,Ibrahim al-Sawaya,Tunisia,Manzil Tamim,,,,,,,,,3.04,procter & gamble,consumer goods,"cincinnati, ohio, united states",united states,,Russian,Customer information control system CICS,Transaction server software
+78,Alexandra Levy,United States of America,Los Angeles,,,,,,,,,3.75,walgreens,retail,"deerfield, illinois, united states",united states,,Persian,Data entry software,Data base user interface and query software
+79,Macie Nguyen,Japan,Tokyo,,,,,,,,,3.55,"keller williams realty, inc.",real estate,"austin, texas, united states",united states,,Japanese,Datawatch Monarch,Data mining software
+80,Sean Tegtman,United States of America,Kettering,,,,,,,,,3.17,"lowe's companies, inc.",retail,"mooresville, north carolina, united states",united states,,Portugese,Deacom ERP,Enterprise resource planning ERP software
+81,Casey Vanden Bos,United States of America,Los Angeles,,,,,,,,,3.44,verbum traducción y edición,translation and localization,,,,Hindi,Delphi Technology,Financial analysis software
+82,Staci Maes,Mexico,Mexico,,,,,,,,,2.91,united states marine corps,military,"washington, district of columbia, united states",united states,,Persian,Dynamic Energy Systems MedAct,Medical software
+83,Luke Davey,United States of America,Los Angeles,,,,,,,,,3.52,dell emc,information technology and services,"hopkinton, massachusetts, united states",united states,,Korean,Extensible markup language XML,Enterprise application integration software
+84,Harper Wheeler-Marques,United States of America,San Diego,,,,,,,,,3.34,tech mahindra,information technology and services,"pune, maharashtra, india",india,,Swedish,Facebook,Web page creation and editing software
+85,Sherleen Saravanan,Myanmar,Rangoon,,,,,,,,,2.45,verizon wireless,telecommunications,"basking ridge, new jersey, united states",united states,,Indonesian,FileMaker Pro,Data base user interface and query software
+86,Myles Vaught,United States of America,Waukegan,,,,,,,,,2.78,sanofi,pharmaceuticals,"paris, île-de-france, france",france,,Latin,Fund accounting software,Accounting software
+87,Juan Guerrero Camacho,Mexico,Mexico,,,,,,,,,3.27,bnp paribas,banking,"paris, île-de-france, france",france,,French,Geographic information system GIS software,Map creation software
+88,Lindsey Freund,United States of America,New York,,,,,,,,,3.28,sodexo,facilities services,,,,Latin,Google AdWords,Sales and marketing software
+89,Savannah Clark,United States of America,Visalia,,,,,,,,,3.25,deutsche bank,investment banking,"frankfurt, hessen, germany",germany,,Pushto,Google Analytics,Data mining software
+90,Bradley Monsell,United States of America,New York,,,,,,,,,3.49,tencent,internet,"shenzhen, guangdong, china",china,,English,Google Docs,Word processing software
+91,Daisha Schmidt,United States of America,Boulder,,,,,,,,,3.6,j.p. morgan,financial services,"new york, new york, united states",united states,,Estonian,Google Drive,Office suite software
+92,Airabella Koontz,United States of America,Dallas,,,,,,,,,2.83,verizon,information technology and services,"basking ridge, new jersey, united states",united states,,Indonesian,HEAT Software GoldMine,Customer relationship management CRM software
+93,Hailey Malle,Russian Federation,Nizhniy Novgorod,,,,,,,,,3.01,l'oréal,cosmetics,"paris, île-de-france, france",france,,Tamil,Human resource management software HRMS,Human resources software
+94,Devon Miranda,Colombia,Pereira,,,,,,,,,2.7,kpmg,accounting,"montvale, new jersey, united states",united states,,Tamil,Human resources software,Human resources software
+95,Danielle Nguyen,Japan,Tokyo,,,,,,,,,2.58,orange,telecommunications,"paris, île-de-france, france",france,,Latin,IBM Cognos Impromptu,Business intelligence and data analysis software
+96,Mateo Cisneros,Brazil,Foz do Iguaçu,,,,,,,,,2.89,linkedin,internet,"mountain view, california, united states",united states,,Latin,IBM Domino,Communications server software
+97,William Pablo,Japan,Kashiwara,,,,,,,,,3.3,barclays,financial services,"london, greater london, united kingdom",united kingdom,,English,IBM InfoSphere DataStage,Enterprise application integration software
+98,Jason Hundsdorfer,United States of America,Los Angeles,,,,,,,,,3.15,facebook,internet,"menlo park, california, united states",united states,,Pushto,IBM Notes,Electronic mail software
+99,Antonio Desai,Japan,Kawasaki,,,,,,,,,2.88,northrop grumman corporation,defense & space,"falls church, virginia, united states",united states,,Korean,IBM Power Systems software,Enterprise system management software
+100,Rachel Bakeman,United States of America,Phoenix,,,,,,,,,3.43,fca fiat chrysler automobiles,automotive,"turin, turin, italy",united kingdom,,Japanese,IBM SPSS Statistics,Analytical or scientific software
+101,Mamdooh el-Moustafa,Pakistan,Karachi,,,,,,,,,3.68,adp,human resources,"roseland, new jersey, united states",united states,,Russian,InnQuest Software roomMaster,Facilities management software
+102,Lindsey Carter,United States of America,Redwood City,,,,,,,,,3.03,medtronic,medical devices,"minneapolis, minnesota, united states",united states,,Tamil,Intuit QuickBooks,Accounting software
+103,Duncan Kruse,United States of America,Santa Ana,,,,,,,,,3.46,abbott,hospital & health care,"illinois city, illinois, united states",united states,,Persian,Inventory management software,Inventory management software
+104,Callahan Foster,Canada,Toronto,,,,,,,,,3.49,chevron,oil & energy,"san ramon, california, united states",united states,,Thai,Job control language JCL,Operating system software
+105,Jamie Ortiz,El Salvador,Nueva San Salvador,,,,,,,,,3.34,roche,biotechnology,"basel, basel-city, switzerland",switzerland,,Turkish,Kronos Workforce Payroll,Time accounting software
+106,Ryan Barrett,United States of America,Chicago,,,,,,,,,3.5,american express,financial services,"new york, new york, united states",united states,,Estonian,Kronos Workforce Timekeeper,Time accounting software
+107,Samuel Palmer,United States of America,New York,,,,,,,,,2.97,samsung electronics,electrical/electronic manufacturing,"none, south carolina, united states",united states,,English,LexisNexis,Information retrieval or search software
+108,Riley Mcloughlin,United States of America,Los Angeles,,,,,,,,,3.06,macy's,retail,"cincinnati, ohio, united states",united states,,Swedish,LinkedIn,Web page creation and editing software
+109,Aimee Apelyan,United States of America,Joliet,,,,,,,,,2.64,thomson reuters,information technology and services,"new york, new york, united states",united states,,Japanese,LSA Visual Easy Lean,Materials requirements planning logistics and supply chain software
+110,Maryah Falloon,United States of America,Phoenix,,,,,,,,,3.24,ministerio de educación,education management,,,,Chinese,Marketo Marketing Automation,Sales and marketing software
+111,Lucille Mitchell,Canada,Edmonton,,,,,,,,,3.38,avon,cosmetics,"new york, new york, united states",united states,,Thai,Maximizer Software Maximizer Enterprise,Customer relationship management CRM software
+112,Christian Zambrano-Munoz,Mexico,Mexicali,,,,,,,,,2.67,cgi,information technology and services,"montréal, quebec, canada",canada,,French,McAfee,Transaction security and virus protection software
+113,Bryce Vaillancourt,United States of America,Pomona,,,,,,,,,3.31,cvs health,pharmaceuticals,"woonsocket, rhode island, united states",united states,,Arabic,Microsoft Access,Data base user interface and query software
+114,Brandilyn Collins,United States of America,Los Angeles,,,,,,,,,3.74,halliburton,oil & energy,"houston, texas, united states",united states,,Romanian,Microsoft Dynamics,Enterprise resource planning ERP software
+115,Konner Gearhart,United States of America,New York,,,,,,,,,2.93,atos,information technology and services,"bezons, ile-de-france, france",france,,Spanish,Microsoft Dynamics GP,Enterprise resource planning ERP software
+116,Andrew Houghton,United States of America,Spokane,,,,,,,,,3.53,pcs informatica,information technology and services,,,,Arabic,Microsoft Excel,Spreadsheet software
+117,Marisa Ramey,Mexico,Mexico,,,,,,,,,3.11,ge healthcare,hospital & health care,"buckingham, buckinghamshire, united kingdom",united kingdom,,Korean,Microsoft Exchange Server,Electronic mail software
+118,Magdalynne Noah,United States of America,New York,,,,,,,,,3.07,csc,information technology and services,"falls church, virginia, united states",united states,,Thai,Microsoft FrontPage,Web page creation and editing software
+119,Megan Salamena,United States of America,Los Angeles,,,,,,,,,3.26,merck,pharmaceuticals,"kenilworth, new jersey, united states",united states,,Arabic,Microsoft Internet Explorer,Internet browser software
+120,Meghan Arnold,Russian Federation,Saint Petersburg,,,,,,,,,3.22,kpmg,financial services,"new york, new york, united states",united states,,Estonian,Microsoft Office,Office suite software
+121,James Rice,Canada,Toronto,,,,,,,,,2.89,banco santander,banking,"boadilla del monte, madrid, spain",spain,,Pushto,Microsoft Outlook,Electronic mail software
+122,Wesley Nunn,United States of America,Los Angeles,,,,,,,,,3.19,scotiabank,banking,"toronto, ontario, canada",canada,,Chinese,Microsoft PowerPoint,Presentation software
+123,Gareth Newkirk,United States of America,Los Angeles,,,,,,,,,3.32,dxc technology,information technology and services,,united states,,Japanese,Microsoft Project,Project management software
+124,Austin Harline,United States of America,Las Vegas,,,,,,,,,3.66,johnson controls,mechanical or industrial engineering,"milwaukee, wisconsin, united states",united states,,Turkish,Microsoft Publisher,Desktop publishing software
+125,Courtney Martinez,Mexico,Aguascalientes,,,,,,,,,2.95,posteamos.com,broadcast media,,,,Estonian,Microsoft SharePoint,Project management software
+126,Alexandra Graham,United States of America,Los Angeles,,,,,,,,,2.82,allstate,insurance,"northbrook, illinois, united states",united states,,Russian,Microsoft SQL Server,Data base user interface and query software
+127,Alexander Swearingen,United States of America,Los Angeles,,,,,,,,,3.67,petrobras,oil & energy,"rio de janeiro, rio de janeiro, brazil",brazil,,English,Microsoft Visio,Graphics or photo imaging software
+128,Brandy Waldner,Germany,Zülpich,,,,,,,,,3.67,credit suisse,banking,"zurich, zurich, switzerland",switzerland,,Thai,Microsoft Visual Basic,Development environment software
+129,Coleman Keelen,Spain,Callosa de Segura,,,,,,,,,2.19,telefónica,telecommunications,"madrid, madrid, spain",spain,,Urdu,Microsoft Windows,Operating system software
+130,Casey Buhr,United States of America,Phoenix,,,,,,,,,3.32,marriott international,hospitality,"bethesda, maryland, united states",united states,,Russian,Microsoft Word,Word processing software
+131,Shauna Sneed,United States of America,Burlingame,,,,,,,,,3.48,axa,insurance,"paris, île-de-france, france",france,,Russian,MicroStrategy,Business intelligence and data analysis software
+132,Caitlin Dean,United States of America,Philadelphia,,,,,,,,,2.87,3m health care,mechanical or industrial engineering,"saint paul, minnesota, united states",united states,,Hindi,Minitab,Analytical or scientific software
+133,Andrew Kirin,United States of America,Odessa,,,,,,,,,3.57,standard chartered bank,banking,"london, greater london, united kingdom",united kingdom,,Korean,Mozilla Firefox,Internet browser software
+134,Nadia Minks,Russian Federation,Moscow,,,,,,,,,3.65,xerox,information technology and services,"norwalk, connecticut, united states",united states,,Persian,Mozilla Thunderbird,Electronic mail software
+135,Ivy Lucero,Brazil,São Paulo,,,,,,,,,2.85,cbre,real estate,"los angeles, california, united states",united states,,Swedish,Nagios,Network monitoring software
+136,Kevin Curry,United States of America,Phoenix,,,,,,,,,3.21,nyc department of education,education management,"new york, new york, united states",united states,,Urdu,NetSuite ERP,Enterprise resource planning ERP software
+137,Charles Cramer,United States of America,East Los Angeles,,,,,,,,,2.35,goldman sachs,investment banking,"new york, new york, united states",united states,,Russian,NetSuite NetCRM,Customer relationship management CRM software
+138,Emily Warner,United States of America,Lodi,,,,,,,,,2.4,fidelity investments,financial services,"boston, massachusetts, united states",united states,,Latin,Oracle Business Intelligence Enterprise Edition,Business intelligence and data analysis software
+139,Mckenzie Haycock,Canada,Toronto,,,,,,,,,2.52,icici bank,banking,"bombay, maharashtra, india",india,,Latin,Oracle E-Business Suite Financials,Financial analysis software
+140,Faviola Soto,Mexico,Cortazar,,,,,,,,,3.57,exxonmobil,oil & energy,"irving, texas, united states",united states,,Korean,Oracle Eloqua,Customer relationship management CRM software
+141,Stephen Wharton,Mexico,Tuxtla Gutiérrez,,,,,,,,,2.03,t-mobile,telecommunications,"bellevue, washington, united states",united states,,Tamil,Oracle Fusion Applications,Enterprise resource planning ERP software
+142,Alexandria Fortner,United States of America,Phoenix,,,,,,,,,2.97,aon,financial services,"london, greater london, united kingdom",united kingdom,,Turkish,Oracle Hyperion,Enterprise resource planning ERP software
+143,Savannah Kivett,United States of America,Colorado Springs,,,,,,,,,2.9,royal bank of scotland,banking,"edinburgh, edinburgh, united kingdom",united kingdom,,Swedish,Oracle JD Edwards EnterpriseOne,Enterprise resource planning ERP software
+144,Tanner Jones,United States of America,Stockton,,,,,,,,,2.42,astrazeneca,pharmaceuticals,"london, greater london, united kingdom",united kingdom,,Hindi,Oracle PeopleSoft,Enterprise resource planning ERP software
+145,Luisa Bautista,Mexico,Mexico,,,,,,,,,3.33,nike,sporting goods,"beaverton, oregon, united states",united states,,Hindi,Oracle PeopleSoft Financials,Enterprise resource planning ERP software
+146,Juhaina al-Bilal,Bangladesh,Dhaka,,,,,,,,,3.77,basf,chemicals,"ludwigshafen, rheinland-pfalz, germany",germany,,Turkish,Oracle Primavera Enterprise Project Portfolio Management,Project management software
+147,Siena Ingram,United States of America,Henderson,,,,,,,,,3.33,hdfc bank,banking,,,,Hindi,Oracle Solaris,Operating system software
+148,Alondra Gardea Corral,Mexico,Ensenada,,,,,,,,,3.37,best buy,retail,"richfield, minnesota, united states",united states,,Thai,Oracle Taleo,Human resources software
+149,Vincent Webster,United States of America,New York,,,,,,,,,2.68,american airlines,airlines/aviation,"fort worth, texas, united states",united states,,Hindi,Payroll software,Time accounting software
+150,Abdul Jabbaar el-Abdul,Egypt,Cairo,,,,,,,,,3.33,baker hughes,oil & energy,"houston, texas, united states",united states,,Turkish,Personnel scheduling software,Human resources software
+151,Patrick Carnes,United States of America,Mesa,,,,,,,,,3.75,the coca-cola company,food & beverages,"atlanta, georgia, united states",united states,,Chinese,Point of sale POS software,Point of sale POS software
+152,Shawn O Bryan,United States of America,Fairfield,,,,,,,,,3.68,genpact,information technology and services,"new york, new york, united states",united states,,Portugese,PostgreSQL,Object oriented data base management software
+153,Jenna Whitney,United States of America,San Diego,,,,,,,,,2.16,jll,commercial real estate,"chicago, illinois, united states",united states,,Turkish,Puppet,Configuration management software
+154,Kaitlin Krueger,United States of America,Los Angeles,,,,,,,,,2.53,rbc,banking,"toronto, ontario, canada",canada,,Urdu,Qlik Tech QlikView,Business intelligence and data analysis software
+155,Jaime Mikesell,United States of America,Los Angeles,,,,,,,,,3.23,u.s. bank,banking,"minneapolis, minnesota, united states",united states,,English,R,Object or component oriented development software
+156,Katelynn Andrie,United States of America,Kansas City,,,,,,,,,3.4,larsen & toubro,construction,"bombay, maharashtra, india",india,,English,Realization Streamliner,Project management software
+157,Maryn Manzanares,United States of America,Laguna Hills,,,,,,,,,2.59,continental,automotive,"od, bayern, germany",germany,,French,Sage 50 Accounting,Accounting software
+158,Colleen Kohout,United States of America,Philadelphia,,,,,,,,,3.79,pnc,financial services,"pittsburgh, pennsylvania, united states",united states,,English,Sage ACT!,Customer relationship management CRM software
+159,Daniel Spurlin,United States of America,San Jose,,,,,,,,,3.52,sprint,telecommunications,"overland park, kansas, united states",united states,,Thai,Sage MAS 500,Financial analysis software
+160,Trevor Bulba,United States of America,Chicago,,,,,,,,,3.1,saudi aramco,oil & energy,"dhahran, eastern province, saudi arabia",saudi arabia,,Korean,Salesforce software,Customer relationship management CRM software
+161,Jordan Burkhamer,United States of America,San Jose,,,,,,,,,3.34,g4s,security and investigations,"crawley, west sussex, united kingdom",united kingdom,,Japanese,Salesforce.com Salesforce CRM,Customer relationship management CRM software
+162,Rebecca Ah Fat,China,Tangshan,,,,,,,,,2.74,airbus,aviation & aerospace,"arlington, virginia, united states",united states,,Spanish,SAP,Enterprise resource planning ERP software
+163,Christopher Jacobo,United States of America,Los Angeles,,,,,,,,,3.14,capital one,financial services,"mclean, virginia, united states",united states,,English,SAP Business Objects,Enterprise resource planning ERP software
+164,Min Singal,Japan,Tokyo,,,,,,,,,2.29,delta air lines,airlines/aviation,"atlanta, georgia, united states",united states,,Turkish,SAP Crystal Reports,Data base reporting software
+165,Corey Rademacher,Ukraine,Chernihiv,,,,,,,,,3.16,carrefour,supermarkets,"boulogne-billancourt, ile-de-france, france",france,,Portugese,SAS,Analytical or scientific software
+166,Alexander Reed,United States of America,Los Angeles,,,,,,,,,3.06,ninguna,"health, wellness and fitness",,,,Indonesian,Savant MobileRanger,Data base user interface and query software
+167,Dalen Whiting,United States of America,Carrollton,,,,,,,,,2.74,merrill lynch,financial services,"new york, new york, united states",united states,,English,SeaMonkey,Internet browser software
+168,Chelsea Persky,United States of America,San Bernardino,,,,,,,,,2.63,mondelēz international,food production,"deerfield, illinois, united states",united states,,French,Shell script,Operating system software
+169,Karla Taylor,Mexico,Mexico,,,,,,,,,3.06,bt,telecommunications,"london, greater london, united kingdom",united kingdom,,Thai,Siemens NX for Manufacturing,Computer aided manufacturing CAM software
+170,Kaden Yates,United States of America,Salinas,,,,,,,,,3.97,h&m,retail,"stockholm, stockholms lan, sweden",sweden,,Japanese,Software on Sailboats Desktop Sales Manager,Customer relationship management CRM software
+171,Maimoona el-Soliman,Turkey,Ankara,,,,,,,,,2.68,anz,banking,"melbourne, victoria, australia",australia,,Tamil,Splunk Enterprise,Enterprise system management software
+172,Aaqil el-Hashemi,India,Bangalore,,,,,,,,,3.58,farmers insurance,insurance,"los angeles, california, united states",united states,,Korean,StataCorp Stata,Analytical or scientific software
+173,Sean Bruso,United Kingdom,London,,,,,,,,,3.56,aecom,civil engineering,"los angeles, california, united states",united states,,Dutch,Structured query language SQL,Data base user interface and query software
+174,Andrew Bishop,United States of America,Los Angeles,,,,,,,,,2.63,united states department of defense,military,"washington, district of columbia, united states",united states,,Swedish,Sugar CRM,Customer relationship management CRM software
+175,Zahraaa el-Yousef,India,Hospet,,,,,,,,,1.97,metlife,insurance,"new york, new york, united states",united states,,Persian,Supervisory control and data acquisition SCADA software,Industrial control software
+176,Surya Ky,China,Tangshan,,,,,,,,,3.66,total,oil & energy,"san diego, california, united states",united states,,Indonesian,Symantec,Transaction security and virus protection software
+177,George Mann,Russian Federation,Moscow,,,,,,,,,3.51,ikea group,retail,"malmö, skåne, sweden",sweden,,Dutch,Tableau,Business intelligence and data analysis software
+178,Latino Calderon,Mexico,Hermosillo,,,,,,,,,3.07,cargill,food production,"wayzata, minnesota, united states",united states,,Estonian,Tax software,Accounting software
+179,Baylen Cloutier,United States of America,Phoenix,,,,,,,,,3.2,bae systems,defense & space,"london, greater london, united kingdom",united kingdom,,Turkish,Teradata Database,Data base management system software
+180,Nicole Torres-Valadez,Brazil,Rio de Janeiro,,,,,,,,,2.58,united airlines,airlines/aviation,"chicago, illinois, united states",united states,,Portugese,The MathWorks MATLAB,Analytical or scientific software
+181,Addie Villavicencio,United States of America,San Jose,,,,,,,,,1.93,lavoratore indipendente,medical practice,,,,Estonian,Vanguard Software Vanguard Sales Manager,Customer relationship management CRM software
+182,Billy Jack Bestle,United States of America,Baltimore,,,,,,,,,3.51,mary kay inc.,cosmetics,"addison, texas, united states",united states,,Arabic,Veritas NetBackup,Backup or archival software
+183,Isabella Martinez,Colombia,Bogotá,,,,,,,,,2.75,liberty mutual insurance,insurance,"boston, massachusetts, united states",united states,,Turkish,vtiger CRM,Customer relationship management CRM software
+184,Kimberly Thielke,United States of America,Los Angeles,,,,,,,,,3.06,comcast,media production,"philadelphia, pennsylvania, united states",united states,,French,Yardi,Data base user interface and query software
+185,Adrian Miguel-Gomez,Colombia,Medellín,,,,,,,,,2.91,caterpillar inc.,machinery,"peoria heights, illinois, united states",united states,,Pushto,YouTube,Video creation and editing software
+186,Kayla Sales,United States of America,Quincy,,,,,,,,,2.56,jacobs,construction,"pasadena, california, united states",united states,,Urdu,Adobe Systems Adobe Acrobat,Document management software
+187,Haafiza al-Attar,Morocco,Rabat,,,,,,,,,2.6,bny mellon,financial services,"new york, new york, united states",united states,,Thai,Adobe Systems Adobe FrameMaker,Desktop publishing software
+188,Juanita Medina,Mexico,Mexico,,,,,,,,,2.41,raytheon,defense & space,"waltham, massachusetts, united states",united states,,Romanian,Antenna House,Desktop publishing software
+189,Emma Kim,China,Hengshui,,,,,,,,,2.5,société générale,banking,"paris, île-de-france, france",france,,Russian,Apple iWork Keynote,Presentation software
+190,Mckayla Dopler,Netherlands,Kerkrade,,,,,,,,,2.95,eli lilly and company,pharmaceuticals,"indianapolis, indiana, united states",united states,,French,Apple Numbers for Mac,Spreadsheet software
+191,Jonathan Nevarez,Mexico,Mexico,,,,,,,,,2.74,hp,information technology and services,"palo alto, california, united states",united states,,Spanish,Apple Pages for Mac,Word processing software
+192,Roger Redfern,United States of America,Los Angeles,,,,,,,,,2.83,eskom,utilities,,,,Portugese,Cisco AnyConnect,Access software
+193,Hannah Critchfield,United States of America,New York,,,,,,,,,3.2,school,textiles,,,,Persian,Cisco Systems WebEx,Video conferencing software
+194,Chue Fue Richter,China,Qiqihar,,,,,,,,,3.63,uber,internet,"san francisco, california, united states",united states,,Persian,Citrix GoToMeeting,Video conferencing software
+195,Joshua Mesan,United States of America,San Jose,,,,,,,,,2.46,lloyds banking group,financial services,"london, greater london, united kingdom",united kingdom,,Spanish,Corel WordPerfect Office Suite,Office suite software
+196,Dylan Bell,United States of America,Tucson,,,,,,,,,3,kroger,retail,"cincinnati, ohio, united states",united states,,Romanian,GoodReader,Word processing software
+197,Troy White,United States of America,New York,,,,,,,,,3.52,thermo fisher scientific,research,"waltham, massachusetts, united states",united states,,Japanese,iAnnotate,Word processing software
+198,Sabaaha al-Latif,India,Bangalore,,,,,,,,,3.11,renault,automotive,,,,Thai,IBM Domino,Communications server software
+199,Grant Walden,United States of America,San Diego,,,,,,,,,2.76,nhs trust,hospital & health care,,,,Turkish,Legislative Automative Workflow System LAWS,Data base user interface and query software
+200,Kitty Nguyen,Japan,Tokyo,,,,,,,,,3.37,willis towers watson,financial services,"london, england, united kingdom",united kingdom,,Turkish,Mapping software,Map creation software
+201,Tyler Kibel,United States of America,Santa Ana,,,,,,,,,2.56,hospital universitario josep trueta,"health, wellness and fitness",,,,Russian,Meeting scheduling software,Calendar and scheduling software
+202,Kyler Overboe,United States of America,Chicago,,,,,,,,,2.38,aig,insurance,"new york, new york, united states",united states,,Swedish,Microsoft Access,Data base user interface and query software
+203,Alexander Lizama,Brazil,Belo Horizonte,,,,,,,,,3.69,state bank of india,banking,"bombay, maharashtra, india",india,,Swedish,Microsoft Excel,Spreadsheet software
+204,Aaron Knott,United States of America,Santa Ana,,,,,,,,,2.1,fedex express,package/freight delivery,,,,Portugese,Microsoft Exchange Server,Electronic mail software
+205,Jessica Greenberg,United States of America,Joplin,,,,,,,,,3.12,novo nordisk,pharmaceuticals,"plainsboro, new jersey, united states",united states,,Dutch,Microsoft Office,Office suite software
+206,Lexi Hatton,United States of America,Los Angeles,,,,,,,,,2.24,mynet,internet,"maslak, istanbul, turkey",turkey,,Indonesian,Microsoft Outlook,Electronic mail software
+207,Jesse Hodapp,United States of America,Danville,,,,,,,,,2.23,vale,mining & metals,"rio de janeiro, rio de janeiro, brazil",brazil,,Hindi,Microsoft SharePoint,Project management software
+208,Andrew Brunelli,United States of America,New York,,,,,,,,,3.72,itaú unibanco,banking,"sao paulo, sao paulo, brazil",brazil,,Dutch,Microsoft SQL Server,Data base user interface and query software
+209,Makenzie Swann,United States of America,Stockton,,,,,,,,,3.68,h&r block,retail,"kansas city, missouri, united states",united states,,Swedish,Microsoft Visual Basic,Development environment software
+210,Carlos Anaya,Mexico,Mexico,,,,,,,,,3.67,sncf,transportation/trucking/railroad,"saint-denis-de-palin, centre, france",france,,Pushto,Microsoft Word,Word processing software
+211,Felipe Martinez Acosta,Chile,Santiago,,,,,,,,,2.52,social security administration,government administration,"baltimore, maryland, united states",united states,,Estonian,Penultimate,Word processing software
+212,Emma Casias,United States of America,Rochester,,,,,,,,,3.33,"bright futures, a college and career management company",mental health care,,,,Indonesian,PTC Arbortext Editor,Word processing software
+213,Adolf Malik,Korea (Republic of),Seoul,,,,,,,,,3.31,costco wholesale,retail,"issaquah, washington, united states",united states,,Korean,Rocket/Folio NXT,Desktop publishing software
+214,Christian Chow,China,Handan,,,,,,,,,3.13,thales,defense & space,"alexandria, virginia, united states",united states,,Japanese,Structured query language SQL,Data base user interface and query software
+215,Asad el-Yacoub,India,Thana,,,,,,,,,2.88,convergys,outsourcing/offshoring,"cincinnati, ohio, united states",united states,,Pushto,Web browser software,Internet browser software
+216,Holly Marshall,United States of America,San Francisco,,,,,,,,,2.65,ministry of education,design,,,,Latin,Windows Media Player,Music or sound editing software
+217,Brandilyn Hanselman,Russian Federation,Chelyabinsk,,,,,,,,,2.97,tesco plc,retail,"hertfordshire, hertfordshire, united kingdom",united kingdom,,Turkish,XMetaL Author,Word processing software
+218,Nicole Patria,China,Chongqing,,,,,,,,,2.62,iqvia,hospital & health care,"danbury, connecticut, united states",united states,,Portugese,Actuate BIRT,Business intelligence and data analysis software
+219,Kyler Grieshaber,United States of America,Cohoes,,,,,,,,,3.06,salesforce,internet,"san francisco, california, united states",united states,,Persian,Adobe Systems Adobe Acrobat,Document management software
+220,Jasper Stang,United States of America,Sacramento,,,,,,,,,4.15,edf,oil & energy,"france, aquitaine, france",france,,Pushto,Adobe Systems Adobe AfterEffects,Video creation and editing software
+221,Anthony Visocsky,United States of America,Santa Rosa,,,,,,,,,3.41,prefeitura municipal,information technology and services,,,,Hindi,Adobe Systems Adobe Creative Suite,Development environment software
+222,Jake Seime,United States of America,Reno,,,,,,,,,3.21,the dow chemical company,chemicals,"midland, michigan, united states",united states,,Latin,Adobe Systems Adobe Dreamweaver,Web page creation and editing software
+223,Dasha Bannock Lee,United States of America,San Diego,,,,,,,,,3.48,forza silicon,human resources,,,,Dutch,Adobe Systems Adobe Flash Player,Web page creation and editing software
+224,Anthony Mcdevitt,United States of America,Los Angeles,,,,,,,,,2.95,hilton worldwide,hospitality,"mclean, virginia, united states",united states,,Hindi,Adobe Systems Adobe Illustrator,Graphics or photo imaging software
+225,Darby Focken,United States of America,Hinsdale,,,,,,,,,3.6,los angeles unified school district,education management,"los angeles, california, united states",united states,,Russian,Adobe Systems Adobe InDesign,Desktop publishing software
+226,Abigail Gallegos,Brazil,Belém,,,,,,,,,2.87,army national guard,military,"arlington, virginia, united states",united states,,Russian,Adobe Systems Adobe PageMaker,Desktop publishing software
+227,Patricia Rockhold,United States of America,San Francisco,,,,,,,,,3.67,nordstrom,retail,"seattle, washington, united states",united states,,Chinese,Adobe Systems Adobe Photoshop,Graphics or photo imaging software
+228,Kylie Schafer,United States of America,Houston,,,,,,,,,3.49,lifespan,hospital & health care,"providence, rhode island, united states",united states,,Romanian,Adobe Systems Adobe Premiere Pro,Video creation and editing software
+229,Katherine Beatty,United States of America,Los Angeles,,,,,,,,,3.25,fedex,package/freight delivery,"memphis, tennessee, united states",united states,,Arabic,AdRelevance,Data base reporting software
+230,Melissa Bickel,United Kingdom,London,,,,,,,,,3.18,edward jones,financial services,"st. louis, missouri, united states",united states,,English,Apple Final Cut Pro,Video creation and editing software
+231,Rachel Boh,United States of America,Roseville,,,,,,,,,3.85,particular,computer software,,,,Latin,Apple iMovie,Video creation and editing software
+232,Anna Yoshimura,China,Rizhao,,,,,,,,,2.58,travelers,insurance,"new york, new york, united states",united states,,Indonesian,Avid Media Composer,Video creation and editing software
+233,Joseph Hazelton,United States of America,Oakland,,,,,,,,,3.5,fresher,education management,,,,Russian,Brainworks,Enterprise resource planning ERP software
+234,Tiffany Nguyen,Thailand,Bangkok,,,,,,,,,3.17,boehringer ingelheim,pharmaceuticals,"ingelheim, rheinland-pfalz, germany",germany,,Latin,Business analysis software,Analytical or scientific software
+235,Ryan Tyler,United States of America,Los Angeles,,,,,,,,,2.74,state street,financial services,"boston, massachusetts, united states",united states,,English,Constant Contact,Customer relationship management CRM software
+236,Max Flores,Mexico,Tijuana,,,,,,,,,3.42,private,professional training & coaching,"prague, praha, czechia",czechia,,Swedish,Customer relationship management CRM software,Customer relationship management CRM software
+237,Veronica Tounzen,Mexico,Tijuana,,,,,,,,,2.9,the walt disney company,entertainment,"burbank, california, united states",united states,,English,Data visualization software,Analytical or scientific software
+238,Haley Ingrim-Hyrup,United States of America,Fontana,,,,,,,,,3.16,nielsen,information services,"new york, new york, united states",united states,,Pushto,Data warehousing software,Document management software
+239,Kayla Sandefur,United States of America,Los Angeles,,,,,,,,,3.78,emirates,airlines/aviation,"dubai, dubai, united arab emirates",united arab emirates,,Tamil,Database software,Data base user interface and query software
+240,Rylee Onstott,United States of America,Los Angeles,,,,,,,,,2.72,lg electronics,consumer electronics,"seoul, seoul-t'ukpyolsi, south korea",south korea,,Hindi,Experience in Software Webplanner,Project management software
+241,Kelli De Bartolome,United States of America,San Francisco,,,,,,,,,2.81,bombardier,aviation & aerospace,"montréal, quebec, canada",canada,,Estonian,Facebook,Web page creation and editing software
+242,Thomas Chanlynn,United States of America,Bay Point,,,,,,,,,3.56,herbalife,"health, wellness and fitness","los angeles, california, united states",united states,,Latin,Google AdWords,Sales and marketing software
+243,Andrew Yelich,United States of America,Boulder,,,,,,,,,3.3,northwestern mutual,financial services,"milwaukee, wisconsin, united states",united states,,Russian,Google Analytics,Analytical or scientific software
+244,Dimitri Castillo,Colombia,Dos Quebradas,,,,,,,,,4,valeo,automotive,"paris, île-de-france, france",france,,Indonesian,Google DoubleClick,Business intelligence and data analysis software
+245,Matthew Strasburger,United States of America,Los Angeles,,,,,,,,,3.4,eaton,electrical/electronic manufacturing,"cleveland, ohio, united states",united states,,Urdu,IBM Lotus Notes,Electronic mail software
+246,Vittoria Faulkner,United States of America,Chicago,,,,,,,,,2.29,aflac,insurance,"columbus, georgia, united states",united states,,Japanese,JavaScript,Web platform development software
+247,Tyler Goetz,United States of America,Los Angeles,,,,,,,,,3.2,united nations,international affairs,"new york, new york, united states",united states,,Hindi,LinkedIn,Web page creation and editing software
+248,Tyler Weller,United States of America,New York,,,,,,,,,2.58,flextronics,electrical/electronic manufacturing,,singapore,,Pushto,MarketSharp,Customer relationship management CRM software
+249,Terri Mergelman,United States of America,Los Angeles,,,,,,,,,3.11,standard bank group,financial services,"johannesburg, gauteng, south africa",south africa,,Urdu,Microsoft Access,Data base user interface and query software
+250,Abigail Orgeron,United States of America,Prior Lake,,,,,,,,,3,subway,restaurants,,,,Chinese,Microsoft Dynamics Marketing,Data base user interface and query software
+251,Jessica Huynh,Korea (Republic of),Seoul,,,,,,,,,3,mayo clinic,hospital & health care,"rochester, minnesota, united states",united states,,Swedish,Microsoft Excel,Spreadsheet software
+252,Kyle Blanscet,United States of America,Sabattus,,,,,,,,,3.61,booz allen hamilton,management consulting,"mclean, virginia, united states",united states,,Dutch,Microsoft Office,Office suite software
+253,Ronald Toth,United States of America,Los Angeles,,,,,,,,,3.53,allianz,financial services,"munich, bavaria, germany",germany,,Latin,Microsoft Outlook,Electronic mail software
+254,Branden Cantrell,United States of America,Phoenix,,,,,,,,,2.59,telstra,telecommunications,,australia,,Persian,Microsoft PowerPoint,Presentation software
+255,Hannah Ratterman,United States of America,Los Angeles,,,,,,,,,3.71,qualcomm,wireless,"san diego, california, united states",united states,,Turkish,Microsoft Publisher,Desktop publishing software
+256,Alexandria Winter,United States of America,New York,,,,,,,,,3.26,john deere,machinery,"moline, illinois, united states",united states,,Japanese,Microsoft Windows,Operating system software
+257,Ryan Russell,United States of America,Vacaville,,,,,,,,,2.1,aetna,insurance,"hartford, connecticut, united states",united states,,Pushto,Microsoft Word,Word processing software
+258,Logan Nighswonger,United States of America,Los Angeles,,,,,,,,,3.79,enterprise rent-a-car,automotive,"hillsborough, new hampshire, united states",united states,,Pushto,PaloAlto Advertising Plan Pro,Data base user interface and query software
+259,Zaghlool al-Pasha,India,Deoria,,,,,,,,,3.43,bristol-myers squibb,pharmaceuticals,"new york, new york, united states",united states,,Indonesian,Quark,Desktop publishing software
+260,Madeline Kremke,United States of America,Montgomery Village,,,,,,,,,3.13,alberta health services,hospital & health care,"edmonton, alberta, canada",canada,,Korean,Relex Weibull,Analytical or scientific software
+261,John Ferry,United States of America,Long Beach,,,,,,,,,3.41,us department of homeland security,government administration,"washington, district of columbia, united states",united states,,Portugese,Salesforce software,Customer relationship management CRM software
+262,Michelle Goldanloo,United States of America,San Diego,,,,,,,,,2.23,commonwealth bank,financial services,"sydney, new south wales, australia",australia,,Spanish,Structure query language SQL,Data base user interface and query software
+263,Ryan Heidebrecht,United States of America,San Jose,,,,,,,,,3.16,new york life insurance company,financial services,"new york, new york, united states",united states,,Urdu,Tableau,Business intelligence and data analysis software
+264,Murtidevi Chung,Japan,Tokyo,,,,,,,,,3.48,siemens healthcare,hospital & health care,"erlangen, bayern, germany",germany,,English,Web browser software,Internet browser software
+265,Arely Rodriguez,Mexico,Morelia,,,,,,,,,3.82,cibc,banking,"toronto, ontario, canada",canada,,Russian,Webtrends software,Sales and marketing software
+266,Taylor Stone,United States of America,Reno,,,,,,,,,2.32,adidas,sporting goods,"herzogenaurach, bavaria, germany",germany,,Thai,YouTube,Video creation and editing software
+267,Melody Bowyer,United States of America,Baytown,,,,,,,,,3.44,weatherford,oil & energy,"houston, texas, united states",united states,,Chinese,Adobe Systems Adobe Acrobat,Document management software
+268,Bryant Ronquillo,Mexico,Aguascalientes,,,,,,,,,2.8,fluor corporation,construction,"irving, texas, united states",united states,,Persian,Adobe Systems Adobe Creative Suite,Development environment software
+269,Garrett Heim,United States of America,Mobile,,,,,,,,,2.69,pemex,oil & energy,"mexico, distrito federal, mexico",mexico,,Turkish,Adobe Systems Adobe Dreamweaver,Web page creation and editing software
+270,Cody Amen,United States of America,Las Vegas,,,,,,,,,2.9,sopra steria,information technology and services,"france, aquitaine, france",france,,Arabic,Adobe Systems Adobe Experience Manager (AEM),Web page creation and editing software
+271,Jasmine Lopez,Brazil,Guaxupé,,,,,,,,,2.77,hca,hospital & health care,"nashville, tennessee, united states",united states,,Urdu,Adobe Systems Adobe Illustrator,Graphics or photo imaging software
+272,William Tierney,United States of America,New York,,,,,,,,,3.52,bmw group,automotive,"munich, bavaria, germany",germany,,Latin,Adobe Systems Adobe InDesign,Desktop publishing software
+273,Matthew Sputh,United States of America,Modesto,,,,,,,,,3.28,dupont,chemicals,"wilmington, delaware, united states",united states,,Estonian,Adobe Systems Adobe Photoshop,Graphics or photo imaging software
+274,Brenna Chapman,United States of America,Las Vegas,,,,,,,,,3.42,nessuna azienda,writing and editing,,,,Urdu,Adobe Systems Adobe Reader,Document management software
+275,Blake Loughran,United States of America,San Francisco,,,,,,,,,2.24,sears holdings corporation,retail,"hoffman estates, illinois, united states",united states,,Pushto,Computer aided software engineering CASE tools,Object or component oriented development software
+276,Michael Melendrez,United States of America,Shreveport,,,,,,,,,3.66,cleveland clinic,hospital & health care,"cleveland, ohio, united states",united states,,Chinese,Customer relationship management CRM software,Customer relationship management CRM software
+277,Katie Abercrombie,United States of America,Stockton,,,,,,,,,3.34,lafargeholcim,building materials,"jona, schwyz, switzerland",switzerland,,Latin,Drupal,Web platform development software
+278,Justin Krause,United States of America,Independence,,,,,,,,,3.29,kohl's department stores,retail,"menomonee falls, wisconsin, united states",united states,,Thai,Email software,Electronic mail software
+279,Jennifer Hauge,United States of America,Los Angeles,,,,,,,,,3.41,humana,insurance,"louisville, kentucky, united states",united states,,Thai,Extensible markup language XML,Enterprise application integration software
+280,Tiffanie Her,Japan,Tokyo,,,,,,,,,3.06,primerica,financial services,"duluth, georgia, united states",united states,,English,Facebook,Web page creation and editing software
+281,Dyllan Paige,United States of America,Sugar Land,,,,,,,,,2.7,axis bank,banking,"bombay, maharashtra, india",india,,Romanian,Google AdWords,Sales and marketing software
+282,Cole Hathcoat,United States of America,Lemoore,,,,,,,,,2.9,coldwell banker residential brokerage,real estate,"madison, new jersey, united states",united states,,Estonian,Google Analytics,Analytical or scientific software
+283,Jesse Carballo,Colombia,Bogotá,,,,,,,,,3.89,bayer,pharmaceuticals,"leverkusen, north rhine-westphalia, germany",germany,,Turkish,Hootsuite,Enterprise application integration software
+284,Robert Podolski,United States of America,Oakland,,,,,,,,,3.11,fujitsu,information technology and services,"north sydney, new south wales, australia",australia,,Swedish,HubSpot software,Sales and marketing software
+285,Viridiana Ballesteros,Brazil,Alfenas,,,,,,,,,3.73,faa,aviation & aerospace,"washington, district of columbia, united states",united states,,Spanish,Hypertext markup language HTML,Web platform development software
+286,Michael Griffin,United States of America,New York,,,,,,,,,2.52,bbva,banking,"bilbao, basque country, spain",spain,,Russian,Inventory tracking software,Inventory management software
+287,Chad Klemp,United States of America,San Diego,,,,,,,,,2.84,university of michigan,higher education,"ann arbor, michigan, united states",united states,,Spanish,JavaScript,Web platform development software
+288,Weldon Hightower,United States of America,New York,,,,,,,,,2.51,banco do brasil,banking,,,,Russian,LinkedIn,Web page creation and editing software
+289,Daniel Pierce,United States of America,New York,,,,,,,,,2.84,fis,information technology and services,"jacksonville, florida, united states",united states,,Korean,MailChimp,Electronic mail software
+290,Michaela Schoenbeck,United States of America,Rexburg,,,,,,,,,3.88,foxconn,electrical/electronic manufacturing,"panchiao, t'ai-pei, taiwan",taiwan,,Arabic,Marketo Marketing Automation,Sales and marketing software
+291,Charles Prose,United States of America,Miami,,,,,,,,,2.67,intercontinental hotels group (ihg®),hospitality,"denham, buckinghamshire, united kingdom",united kingdom,,Estonian,Microsoft Access,Data base user interface and query software
+292,Brittany Kemmerzell,United States of America,New York,,,,,,,,,3.26,ge power,oil & energy,"schenectady, new york, united states",united states,,Turkish,Microsoft Excel,Spreadsheet software
+293,Taryn Springfield,Canada,Vancouver,,,,,,,,,3.48,epam systems,computer software,"newtown, pennsylvania, united states",united states,,Russian,Microsoft Office,Office suite software
+294,Matthew Obourn,United States of America,San Diego,,,,,,,,,2.24,pearson,education management,"london, greater london, united kingdom",united kingdom,,Urdu,Microsoft Outlook,Electronic mail software
+295,Travis Poss,United States of America,Los Angeles,,,,,,,,,2.27,national australia bank,banking,"melbourne, victoria, australia",australia,,Estonian,Microsoft PowerPoint,Presentation software
+296,Brittany Fernandez,Mexico,Zamora,,,,,,,,,3.04,reliance,oil & energy,"bombay, maharashtra, india",india,,Estonian,Microsoft Project,Project management software
+297,Cody Smith,United States of America,Charlotte,,,,,,,,,3.75,jcpenney,retail,"plano, texas, united states",united states,,Portugese,Microsoft Publisher,Desktop publishing software
+298,Nicolas Papp,United States of America,New York,,,,,,,,,3.55,imss,hospital & health care,"mexico, distrito federal, mexico",mexico,,Estonian,Microsoft SharePoint,Project management software
+299,Christopher Inhulsen,United States of America,Fort Worth,,,,,,,,,3.17,bradesco,banking,"osasco, sao paulo, brazil",brazil,,Portugese,Microsoft SQL Server,Data base management system software
+300,Tessa Rawanduzy,United States of America,Derby,,,,,,,,,3.44,boston scientific,medical devices,"marlborough, massachusetts, united states",united states,,Japanese,Microsoft Word,Word processing software
+301,Vanessa Gonzalez,Nicaragua,León,,,,,,,,,2.91,stay at home mom,law practice,,,,Indonesian,Oracle Eloqua,Customer relationship management CRM software
+302,Austin Haas,United States of America,Columbus,,,,,,,,,3.52,lenovo,computer hardware,"morrisville, north carolina, united states",united states,,Portugese,Pinterest,Information retrieval or search software
+303,Madison Fithian,United States of America,Los Angeles,,,,,,,,,3.34,nationwide insurance,insurance,,,,Urdu,Salesforce software,Customer relationship management CRM software
+304,Zachary Mulvahill,United States of America,Los Angeles,,,,,,,,,2.45,nissan motor corporation,automotive,"yokohama, kanagawa, japan",japan,,Portugese,SAP,Enterprise resource planning ERP software
+305,Eliana Michelsen,United States of America,Oakland,,,,,,,,,2.78,amazon web services,information technology and services,"seattle, washington, united states",united states,,Hindi,Scheduling software,Calendar and scheduling software
+306,Dane Whittemore,Canada,Toronto,,,,,,,,,3.27,philip morris international,,,,,Estonian,Social media software,Web page creation and editing software

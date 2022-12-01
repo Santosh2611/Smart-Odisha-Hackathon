@@ -8,13 +8,63 @@ body {
     /* border: 1px solid black; */
 }
 
-.userprofile{
-  margin-top: 2%;
+.username{
+  font-weight: bolder;
+  font-size: x-large;
+  text-align: center;
+  margin-top: 4%;
+}
+
+.userid{
+  font-weight: bolder;
+  font-size: large;
+  text-align: center;
+  color: gray;
 }
 
 .profilephoto{
   border-radius: 100%;
   padding: 5%;
-  /* border: 1px solid black; */
   box-shadow: 0 0 20px gray;
+}
+
+.profiletext{
+  font-weight: bold !important;
+  font-size: large !important;
+}
+
+input[type=text]{
+  color: black !important;
+  font-weight: bold !important;
+}
+
+.btn-primary1{
+    background-color: black !important;
+    color: white !important;
+    border: none !important;
+    border-radius: 15px;
+}
+
+button {
+  color: white;
+  padding: 3% 0% !important;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  opacity: 0.9;
+}
+
+button:hover {
+  opacity: 1 !important;
+}
+
+.input-group-text{
+	background-color: rgb(242, 242, 242) !important;
+	border: none;
+	margin-top: 5% !important;
+}
+
+svg{
+
 }

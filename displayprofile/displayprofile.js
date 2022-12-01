@@ -13,7 +13,7 @@ firebase.initializeApp(firebaseConfig);
 const auth = getAuth();
 onAuthStateChanged(auth, (user) => {
   if (user) {
-    var name = user.name;
+    var name = user.displayName;
 	document.getElementById("username").innerHTML=name;
   } else {
     // User is signed out

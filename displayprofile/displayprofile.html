@@ -8,21 +8,52 @@
     </head>
     <body>
         <div class="container">
-            <div class="row text-center">
-                <div class="col">
-                    <svg class="profilephoto" xmlns="http://www.w3.org/2000/svg" width="50%" height="50%" fill="currentColor" class="bi bi-person-fill" viewBox="0 0 16 16">
+            <div class="row justify-content-center">
+                <div class="col-3">
+                    <svg class="profilephoto" xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" fill="currentColor" class="bi bi-person-fill" viewBox="0 0 16 16">
                         <path d="M3 14s-1 0-1-1 1-4 6-4 6 3 6 4-1 1-1 1H3Zm5-6a3 3 0 1 0 0-6 3 3 0 0 0 0 6Z"/>
                     </svg>
                 </div>
             </div>
-            <div class="row text-center userprofile">
+            <div class="row justify-content-center">
                 <div class="col">
-                    <p id="username"></p>
+                    <p id="username" class="username">Stephen Haste</p>
                 </div>
             </div>
-            <div class="row text-center userprofile">
+            <div class="row justify-content-center">
                 <div class="col">
-                    <p id="userid"></p>
+                    <p id="userid" class="userid">stephentries@gmail.com</p>
+                </div>
+            </div>
+            <div class="row justify-content-center">
+                <div class="col-3">
+                    <button type="submit" class="btn btn-primary1" name="editprofile">Edit profile</button>
+                </div>
+            </div>
+            <div class="row justify-content-center">
+                <div class="col-3">
+                    <div class="input-group justify-content-center">
+                            <svg class="input-group-text" xmlns="http://www.w3.org/2000/svg" width="20%" height="20%" fill="currentColor" class="bi bi-geo-alt-fill" viewBox="0 0 16 16">
+                                <path d="M8 16s6-5.686 6-10A6 6 0 0 0 2 6c0 4.314 6 10 6 10zm0-7a3 3 0 1 1 0-6 3 3 0 0 1 0 6z"/>
+                            </svg>
+                        <span class="input-group-text profiletext" id="location">Bhubaneshwar</span>
+                    </div>
+                </div>
+            </div>
+            <div class="row justify-content-center">
+                <div class="col-3">
+                    <div class="input-group justify-content-center">
+                        <span class="input-group-text profiletext">Batch</span>
+                        <span class="input-group-text profiletext" id="batch">2020-2024</span>
+                    </div>
+                </div>
+            </div>
+            <div class="row justify-content-center">
+                <div class="col-3">
+                    <div class="input-group justify-content-center">
+                        <span class="input-group-text profiletext">Domain</span>
+                        <span class="input-group-text profiletext" id="domain">Data Science</span>
+                    </div>
                 </div>
             </div>
         </div>
