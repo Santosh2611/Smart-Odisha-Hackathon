@@ -24,7 +24,7 @@ footer{
     width: 100%;
 }
 
-form {
+form{
   color: #555;
   display: flex;
   padding: 2px;
@@ -115,8 +115,4 @@ ul {
 
 .list-items:hover {
   background-color: #dddddd;
-}
-
-iframe{
-  flex-grow: 1;
 }
